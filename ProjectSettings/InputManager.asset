@@ -293,3 +293,67 @@ InputManager:
     type: 0
     axis: 0
     joyNum: 0
+  - serializedVersion: 3
+    m_Name: A
+    descriptiveName: A
+    descriptiveNegativeName: A
+    negativeButton: 
+    positiveButton: a
+    altNegativeButton: a
+    altPositiveButton: a
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: D
+    descriptiveName: D
+    descriptiveNegativeName: D
+    negativeButton: d
+    positiveButton: d
+    altNegativeButton: d
+    altPositiveButton: d
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: W
+    descriptiveName: W
+    descriptiveNegativeName: W
+    negativeButton: w
+    positiveButton: w
+    altNegativeButton: w
+    altPositiveButton: w
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 1
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: S
+    descriptiveName: S
+    descriptiveNegativeName: S
+    negativeButton: s
+    positiveButton: s
+    altNegativeButton: s
+    altPositiveButton: s
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 1
+    joyNum: 0
